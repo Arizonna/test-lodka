@@ -22,7 +22,7 @@ import TickersList from "@/components/TickersList.vue";
 export default {
   data () {
     return {
-      tickers: ['BTC', 'ETH', 'BNB', 'LUNA', 'LTC']
+      tickers: ['BTC', 'ETH', 'BNB', 'LUNA', 'LTC', 'XLM']
     }
   },
   components: {
